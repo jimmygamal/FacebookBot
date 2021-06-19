@@ -8,3 +8,4 @@ Coding By / Mohamed Gamal
  
 - Fb Commenter  : This Script Can Add Comments To Your Facebook Post Plz Use IT For Help ♥
 - Fb Liker : This Script Can Add Like To Your Facebook Post Plz Use IT For Help ♥
+- Fb Share : This Script Can Add Share To Your Facebook Post Plz Use IT For Help ♥
